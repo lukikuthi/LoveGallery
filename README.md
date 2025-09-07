@@ -1,7 +1,7 @@
 # Homenagem para Namorada
 
 ## Summary  
-Projeto onde exibe imagens de sua escolha ao clicar no botão "❤️".
+Projeto onde exibe imagem de sua escolha ao clicar no botão "❤️".
 
 ---
 
