@@ -1,4 +1,4 @@
-# Homenagem para Namorada
+# LoveGallery
 
 ## Summary  
 Projeto onde exibe imagem de sua escolha ao clicar no botão "❤️".
