@@ -18,7 +18,7 @@ Projeto onde exibe imagens de sua escolha ao clicar no botão "❤️".
 ## 📸 Screenshots  
 | Tela Inicial | Tela Final |
 |--------------|---------------|
-| ![](https://github.com/lukikuthi/LoveGallery/blob/master/Telafinal.png?raw=true) | ![](https://github.com/lukikuthi/LoveGallery/blob/master/Telainicial.png?raw=true)
+| ![](https://raw.githubusercontent.com/lukikuthi/LoveGallery/refs/heads/main/Telainicial.png) | ![](https://raw.githubusercontent.com/lukikuthi/LoveGallery/refs/heads/main/Telafinal.png)
 
 
 ---
