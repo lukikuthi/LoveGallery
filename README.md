@@ -15,15 +15,10 @@ Projeto onde exibe imagem de sua escolha ao clicar no botão "❤️".
 
 ---
 
-## Screenshots  
-| Tela Inicial |
-|--------------|
-<img width="1363" height="639" alt="Captura de tela 2025-12-07 174415" src="https://github.com/user-attachments/assets/49d61349-b66c-4ab7-a76b-7431bb3b6365" />
-
-| Tela Final |
-|---------------|
-<img width="1365" height="640" alt="Captura de tela 2025-12-07 174439" src="https://github.com/user-attachments/assets/dd1d2fa0-1d0a-4c31-964b-6fb346c5ab38" />
-
+## Screenshots
+| Tela Inicial | Tela Final |
+|--------------|---------------|
+| ![](https://raw.githubusercontent.com/lukikuthi/LoveGallery/refs/heads/main/Telainicial.png) | ![](https://raw.githubusercontent.com/lukikuthi/LoveGallery/refs/heads/main/Telafinal.png)
 
 ---
 
